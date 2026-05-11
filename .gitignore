@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[code]
+*.pyo
+
+#Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (usually too large for GitHub)
+data/raw/
+*.csv
+*.json
+*.zip
+
+# Models (can be very large)
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
