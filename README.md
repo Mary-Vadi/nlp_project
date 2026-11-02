@@ -45,5 +45,5 @@ Detecting positive, negative, or neutral sentiment from text.
 
 ### Tools and Libraries
 - Python, NLTK, spaCy, HuggingFace Transformers
-- scikit-learn, PyTorch
+- scikit-learn, PyTorch 
 
