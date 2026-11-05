@@ -11,7 +11,7 @@ __pycache__/
 # Data files (usually too large for GitHub)
 data/raw/
 *.csv
-*.json
+*.json 
 *.zip
 
 # Models (can be very large)
