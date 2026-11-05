@@ -9,7 +9,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files (usually too large for GitHub)
-data/raw/
+data/raw/ 
 *.csv
 *.json 
 *.zip
