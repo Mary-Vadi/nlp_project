@@ -10,7 +10,7 @@ A project covering three core NLP tasks built from scratch:
 nlp_project/
 │
 ├── data/
-│   ├── raw/ 
+│   ├── raw/  
 │   └── processed/
 │
 ├── notebooks/
