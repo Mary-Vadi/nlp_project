@@ -5,7 +5,7 @@ venv/
 __pycache__/
 *.py[code] 
 *.pyo    
-#Jupyter checkpoints
+#Jupyter checkpoints 
 .ipynb_checkpoints/
 
 # Data files (usually too large for GitHub)
