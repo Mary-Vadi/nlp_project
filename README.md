@@ -5,7 +5,7 @@ A project covering three core NLP tasks built from scratch:
 - Sentiment Analysis
 - Named Entity Recognition (NER)
 
-## Project Structure 
+## Project Structure  
   
 nlp_project/
 │
