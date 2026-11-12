@@ -6,7 +6,7 @@ __pycache__/
 *.py[code] 
 *.pyo     
 #Jupyter checkpoints 
-.ipynb_checkpoints/
+.ipynb_checkpoints/ 
  
 # Data files (usually too large for GitHub)
 data/raw/ 
