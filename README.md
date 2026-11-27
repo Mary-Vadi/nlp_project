@@ -8,7 +8,7 @@ A project covering three core NLP tasks built from scratch:
 ## Project Structure  
   
 nlp_project/ 
-│
+│ 
 ├── data/
 │   ├── raw/  
 │   └── processed/
